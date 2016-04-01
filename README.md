@@ -1,5 +1,8 @@
 # Help
+
 :star: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
+
+![jupyter](static/png-1x/jupyter-sq-text-left.png) 
 
 ## Community Technical Helpers
 Are you a community member that enjoys sharing your knowledge and helping others solve problems? We encourage you to respond to these issues.
@@ -7,7 +10,7 @@ Are you a community member that enjoys sharing your knowledge and helping others
 If you would like to be more involved and help triage issues, please ask for privileges to add labels and administer this repo.
 
 ## Other help and support resources
-Questions on Project Jupyter enhancements, please visit our Google Group:
+Questions on [Project Jupyter](https://jupyter.org) enhancements, please visit our Google Group:
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/jupyter)
 
