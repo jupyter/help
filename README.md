@@ -1,7 +1,7 @@
 # Help
 :star: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
 
-# Community Technical Helpers
+## Community Technical Helpers
 Are you a community member that enjoys sharing your knowledge and helping others solve problems? We encourage you to respond to these issues.
 
 If you would like to be more involved and help triage issues, please ask for privileges to add labels and administer this repo.
