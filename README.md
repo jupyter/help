@@ -11,7 +11,7 @@ the project's issues page:
 | Popular Jupyter Projects | IPython Projects |
 |--------------------------|------------------|
 | [Notebook](https://github.com/jupyter/notebook/issues/new) | [ipykernel](https://github.com/ipython/ipykernel/issues/new) |
-| [JupyterHub](https://github.com/jupyter/notebook/issues/new) | [ipyparallel](https://github.com/ipython/ipyparallel/issues/new) |
+| [JupyterHub](https://github.com/jupyter/jupyterhub/issues/new) | [ipyparallel](https://github.com/ipython/ipyparallel/issues/new) |
 | [jupyter_client](https://github.com/jupyter/jupyter_client/issues/new) | [IPython](https://github.com/ipython/ipython/issues/new) |
 | [jupyter_console](https://github.com/jupyter/jupyter_console/issues/new) | [ipywidgets](https://github.com/ipython/ipywidgets/issues/new) |
 | [jupyter_core](https://github.com/jupyter/jupyter_core/issues/new) | [traitlets](https://github.com/ipython/traitlets/issues/new) |
