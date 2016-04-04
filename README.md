@@ -7,29 +7,31 @@
 
 We encourage questions. We value being welcoming and courteous.
 
-    :question: I don't know where to ask my question. It might be related to
-               something else, but I'm unsure. What should I do ? :question:
+> :question: I don't know where to ask my question. It might be related to
+> something else, but I'm unsure. What should I do ? :question:
 
-    :exclamation: Open an issue here. This is a safe, respectful space to ask
++ :exclamation: Open an issue here. This is a safe, respectful space to ask
                   questions and open issues. :exclamation:
 
 
-    :question: I've never opened an issue. I'm scared. :question:
+> :question: I've never opened an issue. I'm scared. :question:
 
-    :exclamation: First, that's not a question. Second, that's not a problem.
-                  Click the issue next to top of screen and then click the
-                  green "New Issue" button. Smash your keyboard keys to get
-                  some kind of text in the issue. And click
-                  "Submit new Issue". Congratulations! You submitted your new issue! We'll try
-                  to get back to you shortly. Tip: If you provide helpful info (such as operating system, versions, etc.), it's easier for us to understand your question. :exclamation:
++ :exclamation: First, that's not a question. Second, that's not a problem.
+  Click the issue next to top of screen and then click the
+  green "New Issue" button. Smash your keyboard keys to get
+  some kind of text in the issue. And click
+  "Submit new Issue". Congratulations! You submitted your new issue! We'll try
+  to get back to you shortly. Tip: If you provide helpful info (such as
+  operating system, versions, etc.), it's easier for us to understand your 
+  question. :exclamation:
 
-    :question: Je ne parles pas Anglais (I don't speak English.) :question:
+> :question: Je ne parles pas Anglais (I don't speak English.) :question:
 
-    :exclamation: Pas de problèmes, on a des francophones. (No problem, we speak French too). :exclamation:
++ :exclamation: Pas de problèmes, on a des francophones. (No problem, we speak French too). :exclamation:
 
-    :question: No habla ingles :question:
+> :question: No habla ingles :question:
 
-    :exclamation: (find someone who speak spanish to fill that in) :exclamation:
++ :exclamation: (find someone who speak spanish to fill that in) :exclamation:
 
 
 ## Reporting a bug in a Jupyter project
