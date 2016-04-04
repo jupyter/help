@@ -3,7 +3,35 @@
 
 :star: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
 
+> :question: I don't know where to open a question, I think it is related to
+> something else but I'm unsure, what should I do ? :question:
+
+:exclamation: Open an issue here. Opening an issue here is never the wrong
+thing to do. :exclamation:
+
+
+> :question: I've never opened an issue I'm scared :question:
+
+:exclamation: First, That's not a question. Second that's not a problem. Click
+the issue next to top of screen  and then click the green "New Issue" button.
+Smash you keyboard keys to get some kind of text in the issue. And click
+"Submit new Issue". Congratulation ! You submitted your new issue ! We'll try
+to get back to you shortly. Tip: When the text on the issue make some kind of
+sens it's easier for us to understand what you mean. :exclamation:
+
+> :question: Je ne parles pas Anglais (I dont' speak english) :question:
+
+:exclamation: Pas de problèmes, on a des francophones. (No problem, we speak French too). :exclamation:
+
+> :question: No habla ingles :question:
+
+:exclamation: (find someone who speak spanish to fill that in) :exclamation:
+
+
+
+
 ## Reporting a bug in a Jupyter project
+
 If you think you have found a bug in a specific Jupyter or IPython project,
 please report it in the individual project's repo. These links take you to
 the project's issues page:
