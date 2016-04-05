@@ -1,9 +1,41 @@
 <img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> Help
 ====
 
-:star: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
+:sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
+
+## Please ask
+
+We encourage questions. We value being welcoming and courteous.
+
+> I don't know where to ask my question. It might be related to
+> something else, but I'm unsure. What should I do :question:
+
++ Open an issue here. This is a safe, respectful space to ask
+                  questions and open issues :exclamation:
+
+
+> I've never opened an issue. I'm scared. :question:
+
++ First, that's not a question. Second, that's not a problem for us.
+  Click the issue next to top of screen and then click the
+  green "New Issue" button. Smash your keyboard keys to get
+  some kind of text in the issue. And click
+  "Submit new Issue". Congratulations! You submitted your new issue! We'll try
+  to get back to you shortly. Tip: If you provide helpful info (such as
+  operating system, versions, etc.), it's easier for us to understand your
+  question :exclamation:
+
+> Je ne parles pas Anglais (I don't speak English.) :question:
+
++ Pas de problèmes, on a des francophones (No problem, we speak French too.) :exclamation:
+
+> Pero no hablo en Inglés :question:
+
++ No te hagas problema, tambien hablamos en Español :exclamation:
+
 
 ## Reporting a bug in a Jupyter project
+
 If you think you have found a bug in a specific Jupyter or IPython project,
 please report it in the individual project's repo. These links take you to
 the project's issues page:
