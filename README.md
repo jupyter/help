@@ -29,9 +29,9 @@ We encourage questions. We value being welcoming and courteous.
 
 + Pas de problèmes, on a des francophones (No problem, we speak French too.) :exclamation:
 
-> No habla ingles :question:
+> Pero no hablo en Inglés :question:
 
-+ TODO (find someone who speak spanish to fill that in) :exclamation:
++ No te hagas problema, tambien hablamos en Español :exclamation:
 
 
 ## Reporting a bug in a Jupyter project
