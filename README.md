@@ -10,17 +10,15 @@ We encourage questions. We value being welcoming and courteous.
 > I don't know where to ask my question. It might be related to
 > something else, but I'm unsure. What should I do :question:
 
-+ Open an issue here. This is a safe, respectful space to ask
++ Open an issue in this project. This is a safe, respectful space to ask
                   questions and open issues :exclamation:
 
 
-> I've never opened an issue. I'm scared. :question:
+> I've never opened an issue. How do I do it :question:
 
-+ First, that's not a question. Second, that's not a problem for us.
-  Click the issue next to top of screen and then click the
-  green "New Issue" button. Smash your keyboard keys to get
-  some kind of text in the issue. And click
-  "Submit new Issue". Congratulations! You submitted your new issue! We'll try
++ Click the `Issues` tab next to top of the page, then click the
+  green `New Issue` button. Ask your question in the title and comment fields, then click
+  `Submit new issue`. Congratulations, you submitted your question! We'll try
   to get back to you shortly. Tip: If you provide helpful info (such as
   operating system, versions, etc.), it's easier for us to understand your
   question :exclamation:
