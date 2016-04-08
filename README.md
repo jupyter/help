@@ -23,9 +23,9 @@ We encourage questions. We value being welcoming and courteous.
   operating system, versions, etc.), it's easier for us to understand your
   question.
 
-> Je ne parles pas Anglais (I don't speak English.)?
+> Je ne parle pas Anglais (I don't speak English).
 
-+ Pas de problèmes, on a des francophones (No problem, we speak French too.)!
++ Pas de problème, on a des francophones (No problem, we speak French too)!
 
 > ¿Pero no hablo en Inglés?
 
