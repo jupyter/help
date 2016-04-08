@@ -29,7 +29,7 @@ We encourage questions. We value being welcoming and courteous.
 
 > Pero no hablo en Inglés :question:
 
-+ No te hagas problema, también hablamos en Español :exclamation:
++ No te preocupes, también hablamos Español :exclamation:
 
 
 ## Reporting a bug in a Jupyter project
