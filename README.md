@@ -27,9 +27,9 @@ We encourage questions. We value being welcoming and courteous.
 
 + Pas de problème, on a des francophones (No problem, we speak French too)!
 
-> ¿Pero no hablo en Inglés?
+> Pero no hablo Inglés.
 
-+ ¡No te preocupes, también hablamos Español!
++ No te preocupes, también hablamos Español!
 
 
 ## Reporting a bug in a Jupyter project
