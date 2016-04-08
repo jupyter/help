@@ -8,28 +8,28 @@
 We encourage questions. We value being welcoming and courteous.
 
 > I don't know where to ask my question. It might be related to
-> something else, but I'm unsure. What should I do :question:
+> something else, but I'm unsure. What should I do?
 
 + Open an issue in this project. This is a safe, respectful space to ask
-                  questions and open issues :exclamation:
+                  questions and open issues. :smile:
 
 
-> I've never opened an issue. How do I do it :question:
+> I've never opened an issue. How do I do it?
 
 + Click the `Issues` tab next to top of the page, then click the
   green `New Issue` button. Ask your question in the title and comment fields, then click
   `Submit new issue`. Congratulations, you submitted your question! We'll try
   to get back to you shortly. Tip: If you provide helpful info (such as
   operating system, versions, etc.), it's easier for us to understand your
-  question :exclamation:
+  question.
 
-> Je ne parles pas Anglais (I don't speak English.) :question:
+> Je ne parles pas Anglais (I don't speak English.)?
 
-+ Pas de problèmes, on a des francophones (No problem, we speak French too.) :exclamation:
++ Pas de problèmes, on a des francophones (No problem, we speak French too.)!
 
-> Pero no hablo en Inglés :question:
+> ¿Pero no hablo en Inglés?
 
-+ No te preocupes, también hablamos Español :exclamation:
++ ¡No te preocupes, también hablamos Español!
 
 
 ## Reporting a bug in a Jupyter project
