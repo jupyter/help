@@ -21,7 +21,7 @@ We encourage questions. We value being welcoming and courteous.
   `Submit new issue`. Congratulations, you submitted your question! We'll try
   to get back to you shortly. Tip: If you provide helpful info (such as
   operating system, versions, etc.), it's easier for us to understand your
-  question.
+  question. You may also run `jupyter troubleshoot` which will print information to your terminal which you can include with your issue.
 
 > Je ne parle pas Anglais (I don't speak English).
 
