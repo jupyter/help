@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png" alt="jupyter" height=60px /> Help
+<img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png" alt="jupyter" height=30px /> Help
 ====
 
 :sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/jupyter/help/issues/new). :sparkles:
