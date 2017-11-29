@@ -73,3 +73,6 @@ visit our Google Group:
 
 For very specific configuration questions, you may also wish to check Stack
 Overflow to see if other users have posted comments about your configuration.
+
+## Korean translation version of Jupyter Project
+[Korean Version of Installation](https://github.com/ChungJooHo/Jupyter_Kor_doc/)
