@@ -31,7 +31,6 @@ We encourage questions. We value being welcoming and courteous.
 
 + No te preocupes, también hablamos Español!
 
-
 ## Reporting a bug in a Jupyter project
 
 If you think you have found a bug in a specific Jupyter or IPython project,
@@ -57,6 +56,10 @@ the project's issues page:
 | [jupyter-js-services](https://github.com/jupyter/jupyter-js-services/issues/new) | [jupyter-js-ui](https://github.com/jupyter/jupyter-js-ui/issues/new) | [jupyter-js-utils](https://github.com/jupyter/jupyter-js-utils/issues/new) | [jupyter-sphinx-theme](https://github.com/jupyter/jupyter-sphinx-theme/issues/new) |
 |  [kernel_gateway](https://github.com/jupyter/kernel_gateway/issues/new) | [ldapauthenticator](https://github.com/jupyter/ldapauthenticator/issues/new) | [nbformat](https://github.com/jupyter/nbformat/issues/new) | [nbviewer](https://github.com/jupyter/nbviewer/issues/new) |
 | [oauthenticator](https://github.com/jupyter/oauthenticator/issues/new) | [sudospawner](https://github.com/jupyter/sudospawner/issues/new) | [tmpnb](https://github.com/jupyter/tmpnb/issues/new) | |
+
+## Contributing Help
+
+Our [Contributor Help Page](CONTRIBUTING.md) is a good place to start.
 
 ## Community Technical Helpers
 Are you a community member that enjoys sharing your knowledge and helping
