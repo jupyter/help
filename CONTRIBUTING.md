@@ -16,7 +16,7 @@ IPython, JupyterHub, and Binder are major repos written primarily in Python.
   - [Notable Issues](https://github.com/ipython/ipython/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
   - [Gitter Channel](https://gitter.im/ipython/ipython)
   
-  * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub)
   - [Notable Issues](https://github.com/jupyterhub/jupyterhub/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
   - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
   
@@ -40,7 +40,7 @@ Jupyter Notebook, JupyterLab, and IPyWidgets use JavaScript and TypeScript.
   - [Sprint-friendly Issues](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3AHelp+Wanted%22)
   - [Gitter Channel](https://gitter.im/jupyterlab/jupyterlab)
   
-  * [iPyWidgets](https://github.com/jupyter-widgets/ipywidgets)
+* [iPyWidgets](https://github.com/jupyter-widgets/ipywidgets)
   - [Sprint-friendly Issues](https://github.com/jupyter-widgets/ipywidgets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
   - [Gitter Channel](https://gitter.im/jupyter-widgets/Lobby)
 
