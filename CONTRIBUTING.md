@@ -33,15 +33,15 @@ All our repos have documentation issues that are relevant for new contributors.
 Jupyter Notebook, JupyterLab, and IPyWidgets use JavaScript and TypeScript.
 
 * [Jupyter Notebook](https://github.com/jupyter/notebook)
-  - [Sprint-friendly Issues](https://github.com/jupyter/notebook/issues?q=is%3Aissue+is%3Aopen+label%3A%22tag%3ANew+Contributor%22)
+  - [Notable Issues](https://github.com/jupyter/notebook/issues?q=is%3Aissue+is%3Aopen+label%3A%22tag%3ANew+Contributor%22)
   - [Gitter Channel](https://gitter.im/jupyter/notebook)
   
 * [JupyterLab](https://github.com/jupyterlab/jupyterlab)
-  - [Sprint-friendly Issues](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3AHelp+Wanted%22)
+  - [Notable Issues](https://github.com/jupyterlab/jupyterlab/issues?q=is%3Aopen+is%3Aissue+label%3A%22status%3AHelp+Wanted%22)
   - [Gitter Channel](https://gitter.im/jupyterlab/jupyterlab)
   
-* [iPyWidgets](https://github.com/jupyter-widgets/ipywidgets)
-  - [Sprint-friendly Issues](https://github.com/jupyter-widgets/ipywidgets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* [IPyWidgets](https://github.com/jupyter-widgets/ipywidgets)
+  - [Notable Issues](https://github.com/jupyter-widgets/ipywidgets/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
   - [Gitter Channel](https://gitter.im/jupyter-widgets/Lobby)
 
 ### DevOps
@@ -53,7 +53,7 @@ JupyterHub and Binder have many issues related to devops.  See links above.
 We have issues related to the website.
 
 * [Project Jupyter's Website](https://github.com/jupyter/jupyter.github.io/)
-  - [Sprint-friendly Issues](https://github.com/jupyter/jupyter.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Asprint-friendly)
+  - [Notable Issues](https://github.com/jupyter/jupyter.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Asprint-friendly)
 
 
 ## Contributor Guide
