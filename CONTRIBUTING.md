@@ -10,17 +10,26 @@ We strive to have a inclusive, welcoming community.  Please read our [code of co
 
 ### Python
 
-IPython, JupyterHub, and Binder are major repos written primarily in Python.
+IPython, nbgrader, JupyterHub, repo2docker, and Binder are major repos written primarily in Python.
 
 * [iPython](https://github.com/ipython/ipython)
   - [Notable Issues](https://github.com/ipython/ipython/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
   - [Development Installation](https://github.com/ipython/ipython#development-and-instant-running)
   - [Gitter Channel](https://gitter.im/ipython/ipython)
+ 
+ * [nbgrader](https://github.com/jupyter/nbgrader)
+  - [Notable Issues](https://github.com/jupyter/nbgrader/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  - [Development Installation](https://nbgrader.readthedocs.io/en/latest/contributor_guide/installation_developer.html)
   
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub)
   - [Notable Issues](https://github.com/jupyterhub/jupyterhub/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
   - [Development Installation](https://github.com/jupyterhub/jupyterhub#contributing)
   - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
+
+* [repo2docker](https://github.com/jupyter/repo2docker)
+ - [Notable Issues](https://github.com/jupyter/repo2docker/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+ - [Development Installation}(https://github.com/jupyter/repo2docker#installation)
+ - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
   
 * [Binder](https://github.com/jupyterhub/binderhub)
   - [Notable Issues](https://github.com/jupyterhub/binderhub/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
@@ -52,7 +61,7 @@ Jupyter Notebook, JupyterLab, and IPyWidgets use JavaScript and TypeScript.
 
 ### DevOps
 
-JupyterHub and Binder have many issues related to devops.  See links above.
+JupyterHub, repo2docker, and Binder have many issues related to devops.  See links above.
 
 ### Web Development
 
