@@ -27,9 +27,9 @@ IPython, nbgrader, JupyterHub, repo2docker, and Binder are major repos written p
   - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
 
 * [repo2docker](https://github.com/jupyter/repo2docker)
- - [Notable Issues](https://github.com/jupyter/repo2docker/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
- - [Development Installation}(https://github.com/jupyter/repo2docker#installation)
- - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
+  - [Notable Issues](https://github.com/jupyter/repo2docker/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+  - [Development Installation](https://github.com/jupyter/repo2docker#installation)
+  - [Gitter Channel](https://gitter.im/jupyterhub/jupyterhub)
   
 * [Binder](https://github.com/jupyterhub/binderhub)
   - [Notable Issues](https://github.com/jupyterhub/binderhub/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
