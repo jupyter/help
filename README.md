@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Rectangle%20Logo/rectanglelogo-greytext-orangebody-greymoons/rectanglelogo-greytext-orangebody-greymoons.png" alt="jupyter" height=30px /> Help
 ====
 
-:sparkles: Need some help or have some questions? [Please visit our Discourse page and ask the community](https://discourse.jupyter.org). :sparkles:
+:exclamation: :exclamation: Need some help or have some questions? [Please visit our Discourse page and ask the community](https://discourse.jupyter.org). :exclamation: :exclamation:
 
 **We are deprecating this repo. Please visit our [Discourse page](https://discourse.jupyter.org) for help.**
 
